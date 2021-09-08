@@ -1,7 +1,7 @@
 == xbps-freedom
 
 (unofficial) XBPS tool to list and count packages that respect your freedom. +
-Inspired by link:https://github.com/vmavromatis/absolutely-proprietary[vmavromatis' project]
+Inspired by link:https://github.com/vmavromatis/absolutely-proprietary[vmavromatis' project].
 
 === Installing
 
@@ -18,7 +18,7 @@ sh install.sh
 </a>
 ++++
 
-xbps-freedom is licensed under the *GNU General Public License version 3.0 or later*.
+xbps-freedom is licensed under the *GNU General Public License version 3.0 or later*. +
 The full text of the license can be accessed via 
 link:https://www.gnu.org/licenses/gpl-3.0-standalone.html[this link] 
 and is also included in the link:COPYING[COPYING] file of this software package.
