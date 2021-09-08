@@ -1,0 +1,24 @@
+== xbps-freedom
+
+(unofficial) XBPS tool to list and count packages that respect your freedom. +
+Inspired by link:https://github.com/vmavromatis/absolutely-proprietary[vmavromatis' project]
+
+=== Installing
+
+[source,bash]
+----
+sh install.sh
+----
+
+=== License
+
+++++
+<a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
+    <img align="right" height="96" alt="GPL3 License" src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" />
+</a>
+++++
+
+xbps-freedom is licensed under the *GNU General Public License version 3.0 or later*.
+The full text of the license can be accessed via 
+link:https://www.gnu.org/licenses/gpl-3.0-standalone.html[this link] 
+and is also included in the link:COPYING[COPYING] file of this software package.
